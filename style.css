@@ -1,0 +1,33 @@
+#myCarousel {
+    background-color: gold;
+}
+
+#myCarousel img {
+    height: 300px !important;
+    width: 300px !important;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 25px;
+    font-family: Comic Sans MS;
+}
+
+
+
+body {
+    text-align: center;
+    background-color: gold !important;
+}
+
+
+img {
+
+    height: 200px;
+    width: 600px;
+
+
+}
